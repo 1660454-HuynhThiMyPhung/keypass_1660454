@@ -1,0 +1,11 @@
+c:\users\hau\documents\visual studio 2015\Projects\lockfolrder_1660454\lockfolrder_1660454\bin\Debug\lockfolrder_1660454.exe.config
+c:\users\hau\documents\visual studio 2015\Projects\lockfolrder_1660454\lockfolrder_1660454\bin\Debug\lockfolrder_1660454.exe
+c:\users\hau\documents\visual studio 2015\Projects\lockfolrder_1660454\lockfolrder_1660454\bin\Debug\lockfolrder_1660454.pdb
+c:\users\hau\documents\visual studio 2015\Projects\lockfolrder_1660454\lockfolrder_1660454\obj\Debug\lockfolrder_1660454.csprojResolveAssemblyReference.cache
+c:\users\hau\documents\visual studio 2015\Projects\lockfolrder_1660454\lockfolrder_1660454\obj\Debug\lockfolrder_1660454.Form1.resources
+c:\users\hau\documents\visual studio 2015\Projects\lockfolrder_1660454\lockfolrder_1660454\obj\Debug\lockfolrder_1660454.Properties.Resources.resources
+c:\users\hau\documents\visual studio 2015\Projects\lockfolrder_1660454\lockfolrder_1660454\obj\Debug\lockfolrder_1660454.unlock.resources
+c:\users\hau\documents\visual studio 2015\Projects\lockfolrder_1660454\lockfolrder_1660454\obj\Debug\lockfolrder_1660454.csproj.GenerateResource.Cache
+c:\users\hau\documents\visual studio 2015\Projects\lockfolrder_1660454\lockfolrder_1660454\obj\Debug\lockfolrder_1660454.exe
+c:\users\hau\documents\visual studio 2015\Projects\lockfolrder_1660454\lockfolrder_1660454\obj\Debug\lockfolrder_1660454.pdb
+c:\users\hau\documents\visual studio 2015\Projects\lockfolrder_1660454\lockfolrder_1660454\obj\Debug\lockfolrder_1660454.lockey.resources
